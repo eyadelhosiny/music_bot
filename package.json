@@ -1,0 +1,42 @@
+{
+  "name": "distube",
+  "version": "1.6.7",
+  "description": "distube: Listening music singers in high quality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Eyad Elhosiny",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@distube/deezer": "^2.0.1",
+    "@distube/direct-link": "^1.0.1",
+    "@distube/file": "^1.0.1",
+    "@distube/soundcloud": "^2.0.3",
+    "@distube/spotify": "^2.0.2",
+    "@distube/youtube": "^1.0.4",
+    "@distube/yt-dlp": "file:../extractor-plugins/packages/yt-dlp",
+    "@distube/ytdl-core": "^4.16.12",
+    "@jeve/lyrics-finder": "^1.0.1",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.7",
+    "better-sqlite3": "^11.2.1",
+    "colors": "^1.4.0",
+    "devtools-ts": "^1.1.3",
+    "distube": "^5.0.7",
+    "genius-lyrics": "^4.4.7",
+    "glob": "^11.0.0",
+    "glop": "^0.3.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^9.1.7",
+    "shortlnk": "^1.1.2",
+    "toddys-youtube": "^1.0.7",
+    "wick.db": "^1.0.0",
+    "winston": "^3.14.2",
+    "xlsx": "^0.18.5",
+    "youtube-transcript": "^1.2.1"
+  },
+  "keywords": []
+}

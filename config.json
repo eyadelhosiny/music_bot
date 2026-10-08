@@ -1,0 +1,13 @@
+{
+    "prefixes": ["P!","p!"],
+    "token": "",
+    "clientID": "1185663991473766553",
+    "guildID": "1053276167316193280",
+    "Colour": "#dfdb5e",
+    "youtubeCookie": "",
+    "spotify_api": {
+        "enabled": true,
+        "clientId": "",
+        "clientSecret": ""
+    }
+}
